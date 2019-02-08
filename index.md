@@ -4,34 +4,19 @@ You can use the [editor on GitHub](https://github.com/parhimarsen/parhimarsen.gi
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### ABOUT ME
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+At the moment I am a student of BSUIR.Received secondary education in the Minsk Radio Engineering College.Simple guy. From the moment I found out about OOP I realy wanted to lern C#.There are many projects on Unity. I wanted to become a game developer becauseall childhood I enjoy this topic - playing computer games. Game development isnot fun! I am looking for opportunities to get a job using the C# language. I want to work in a team get experience and increase my skill in programming on C#; 
 
-```markdown
-Syntax highlighted code block
+### INTERESTS
 
-# Header 1
-## Header 2
-### Header 3
+My personal interests include:
+   1) Deap learning. It is an exciting time for machine learning. When you can learn 
+      something new and undestanding that you can do this set you really happy.
+   2) Sport. There is healthy mind in a healthy body. I like sport games and 
+        games in general because I am passion and it is keep me healthy.
+   3) Laziness. I like it. This is my sick interest.
+   
+### CONTACT ME
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/parhimarsen/parhimarsen.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
