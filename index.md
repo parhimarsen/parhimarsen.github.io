@@ -10,7 +10,7 @@ At the moment I am a student of BSUIR.Received secondary education in the Minsk 
 
 ### INTERESTS
 
-<p>My personal interests include:<br>   
+<p>My personal interests include:<br><p>  
 <ul>
             <li>Deap learning. It is an exciting time for machine learning. When you can learn 
         something new and undestanding that you can do this set you really happy.</li>
