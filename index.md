@@ -11,6 +11,7 @@ At the moment I am a student of BSUIR.Received secondary education in the Minsk 
 ### INTERESTS
 
 My personal interests include:<br>
+adasdasdasd
    1) Deap learning. It is an exciting time for machine learning. When you can learn 
       something new and undestanding that you can do this set you really happy.
    2) Sport. There is healthy mind in a healthy body. I like sport games and 
