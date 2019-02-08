@@ -4,6 +4,9 @@ You can use the [editor on GitHub](https://github.com/parhimarsen/parhimarsen.gi
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+<h1 align="center">PARHIMCHIK ARSENY</h1>
+<p align="center">Good Dude</p>
+
 ### ABOUT ME
 
 At the moment I am a student of BSUIR.Received secondary education in the Minsk Radio Engineering College.Simple guy. From the moment I found out about OOP I realy wanted to lern C#.There are many projects on Unity. I wanted to become a game developer becauseall childhood I enjoy this topic - playing computer games. Game development isnot fun! I am looking for opportunities to get a job using the C# language. I want to work in a team get experience and increase my skill in programming on C#; 
