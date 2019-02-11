@@ -25,9 +25,9 @@ At the moment I am a student of BSUIR.Received secondary education in the Minsk 
 ### CONTACT ME
 
 <ul>
-            <li>[FancyCalc](https://github.com/parhimarsen/FancyCalc)</li>
-            <li>[PadawansTask1](https://github.com/parhimarsen/PadawansTask1)</li>
-            <li>[PadawansTask2](https://github.com/parhimarsen/PadawansTask2)</li>
-            <li>[PadawansTask3](https://github.com/parhimarsen/PadawansTask3)</li>
+            <li><a href="https://github.com/parhimarsen/FancyCalc">[FancyCalc]</a></li>
+            <li><a href="https://github.com/parhimarsen/PadawansTask1">[PadawansTask1]</a></li>
+            <li><a href="https://github.com/parhimarsen/PadawansTask2">[PadawansTask2]</a></li>
+            <li><a href="https://github.com/parhimarsen/PadawansTask3">[PadawansTask3]</a></li>
 </ul>
 
